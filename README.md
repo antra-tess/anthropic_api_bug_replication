@@ -117,7 +117,7 @@ Working correctly: 8/10
 
 - Model: `claude-haiku-4-5-20251001`
 - API Version: `2023-06-01`
-- Date: January 2025
+- Date: January 2026
 
 ## Impact
 
